@@ -1,0 +1,13 @@
+supabase/studio:20241202-71e5240
+kong:2.8.1
+supabase/gotrue:v2.164.0
+postgrest/postgrest:v12.2.0
+supabase/realtime:v2.33.70
+supabase/storage-api:v1.11.13
+darthsim/imgproxy:v3.8.0
+supabase/postgres-meta:v0.84.2
+supabase/edge-runtime:v1.65.3
+supabase/logflare:1.4.0
+supabase/postgres:15.6.1.146
+timberio/vector:0.28.1-alpine
+supabase/supavisor:1.1.56
