@@ -1,0 +1,11 @@
+supabase/studio:2026.08.03-sha-022b374
+envoyproxy/envoy:v1.39.0
+supabase/gotrue:v2.189.0
+postgrest/postgrest:v14.12
+supabase/realtime:v2.102.3
+supabase/storage-api:v1.60.4
+darthsim/imgproxy:v3.30.1
+supabase/postgres-meta:v0.96.6
+supabase/edge-runtime:v1.74.0
+supabase/postgres:17.6.1.136
+supabase/supavisor:2.9.5
